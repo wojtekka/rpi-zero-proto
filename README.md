@@ -8,6 +8,8 @@ This is a simple proto board for Raspberry Pi Zero designed in [KiCAD](https://w
 
 ## License
 
-The schematic and PCB layout are released into public domain. The project uses modified KiCAD footprints licensed under CC-BY-SA 4.0.
+The schematic and PCB layout are released into public domain. I'd love nothing more than to see it sold on [eBay](https://ebay.com) or [AliExpress](https://aliexpress.com) $0.99 for 5pcs.
+
+The project uses modified KiCAD footprints licensed under CC-BY-SA 4.0.
 
 
